@@ -1,0 +1,3 @@
+smtp.server.com:587
+your@mail.com
+yourpassword
